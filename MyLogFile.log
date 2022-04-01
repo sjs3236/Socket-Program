@@ -1,0 +1,9 @@
+SERVER LOG FILE
+Client detail, Name:test1 IP:/127.0.0.1 Port:9045 
+Client test1 connected to sever at 18:58:58
+Client detail, Name:test2 IP:/127.0.0.1 Port:9047 
+Client test2 connected to sever at 18:59:1
+Client test2 disconnect at 18:59:19
+Client test2 connected for 18 seconds
+Client test1 disconnect at 18:59:23
+Client test1 connected for 24 seconds
